@@ -34,4 +34,4 @@ O melhor modelo final foi selecionado com base no desempenho na classe minoritá
 ## Autores
 Adriana Theil Melcop de Castro
 Marcela Pereira Raposo
-Thawan Ribeiro Silva
+Thawan Ribeiro da Silva
