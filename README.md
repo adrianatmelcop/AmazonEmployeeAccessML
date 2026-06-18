@@ -31,6 +31,30 @@ O dataset utilizado é o `train.csv`, contendo registros de solicitações de ac
 ## Principais resultados
 O melhor modelo final foi selecionado com base no desempenho na classe minoritária, considerando métricas como F1 da classe 0, AUC-ROC, PR-AUC e taxa de concessão indevida.
 
+## Estrutura do repositório
+
+```text
+AmazonEmployeeAccessML/
+│
+├── data/
+│   └── train.csv
+│
+└── docs/
+│   ├── Predição_de_Aprovação_de_Acesso_a_Recursos.pdf
+│
+├── results/
+│   ├── figures
+│       ├── ...
+│   ├── results
+│       ├── ...
+│
+├── .gitignore
+├── AmazonEmployeeAccess.ipynb
+├── README.md
+├── requirements.txt
+│
+```
+
 ## Autores
 Adriana Theil Melcop de Castro
 Marcela Pereira Raposo
